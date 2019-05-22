@@ -1,0 +1,6 @@
+Loading net-file from '/home/eduardo/teste/LuSTScenario-2.0/scenario/lust.net.xml'... done (635ms).
+Loading additional-files from '/home/eduardo/teste/LuSTScenario-2.0/scenario/vtypes.add.xml'... done (0ms).
+Loading additional-files from '/home/eduardo/teste/LuSTScenario-2.0/scenario/busstops.add.xml'... done (6ms).
+Loading additional-files from '/home/eduardo/teste/LuSTScenario-2.0/scenario/e1detectors.add.xml'... done (27ms).
+Loading additional-files from '/home/eduardo/teste/LuSTScenario-2.0/scenario/lust.poly.xml'... 
+Warning: Environment variable SUMO_HOME is not set, schema resolution will use slow website lookups.
