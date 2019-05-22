@@ -19,8 +19,11 @@ sumo scenario72/dua.static.sumocf --scale 4
 To run the InterSCSimulator simulations run the commands:
 
 docker run -t -w /src/mock-simulators/smart_city_model/src --net="host" -v /home/eduardo/volume2:/src/mock-simulators/smart_city_model/output -e USER=root ezambomsantana/lux70
+
 docker run -t -w /src/mock-simulators/smart_city_model/src --net="host" -v /home/eduardo/volume2:/src/mock-simulators/smart_city_model/output -e USER=root ezambomsantana/lux140
+
 docker run -t -w /src/mock-simulators/smart_city_model/src --net="host" -v /home/eduardo/volume2:/src/mock-simulators/smart_city_model/output -e USER=root ezambomsantana/lux210
+
 docker run -t -w /src/mock-simulators/smart_city_model/src --net="host" -v /home/eduardo/volume2:/src/mock-simulators/smart_city_model/output -e USER=root ezambomsantana/lux280
 
 ----
