@@ -27,3 +27,6 @@ docker run -t -w /src/mock-simulators/smart_city_model/src --net="host" -v /home
 All the data used in the simulations are based on SUMO Lust scenario:
 
 https://github.com/lcodeca/LuSTScenario
+
+----
+The results of the comparison will be avaialble in my PhD Thesis, when it gets published I add the link here. :)
